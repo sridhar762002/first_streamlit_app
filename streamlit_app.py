@@ -4,6 +4,6 @@ eimport streamlit
 streamlit.title('My perminent Health Dineer')
 
 streamlit.header('Breakfast Menu')
-
-streamlit.title('Idli Sambar')
-streamlit.title('Dosa')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
